@@ -1,0 +1,26 @@
+{
+  "id": "807d8167-715c-4233-a283-82dbf81abc5d",
+  "name": "ALStartProject",
+  "publisher": "Default publisher",
+  "brief": "Brief description of ALStartProject",
+  "description": "Long description of ALStartProject",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "features": "TranslationFile",
+  "showMyCode": true,
+  "target": "Internal",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
